@@ -1,1 +1,1 @@
-# goit-js-hw-09
+https://jakubpiksa.github.io/goit-js-hw-09/
