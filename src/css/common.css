@@ -29,3 +29,39 @@ img {
   width: 8rem;
   height: 3rem;
 }
+
+.datetime-picker {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 40px;
+  gap: 10px;
+  border-radius: 10px;
+}
+
+#datetime-picker {
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.start-button {
+  border: none;
+  border-radius: 10px;
+  background-color: #dcdcdc;
+  width: 5rem;
+  height: 2.45rem;
+}
+
+.timer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3em;
+}
+
+.field {
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 10px;
+}
